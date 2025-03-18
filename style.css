@@ -1,0 +1,25 @@
+h1 { color: #000;
+     text-align: center;
+}
+
+body { background-color: #AEB4A9;
+}
+
+section { border-style: solid; 
+          background-color: #586cdb;
+          border-color: #00276e;
+          color:  white;
+          text-align: center;
+}
+a:link { color: #fff;
+}
+
+a:visited { color: chartreuse;
+}
+
+ul { list-style-position: inside;
+}
+
+ol { list-style-type: upper-roman;
+     list-style-position: inside;
+}
