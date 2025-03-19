@@ -1,3 +1,17 @@
+* { margin: 0;
+    padding: 0;
+}
+#astartes-legion { margin-top: 0px;
+}
+
+.small-heading { margin-bottom: 25px;
+                 margin-top: 25px;
+                 padding-top: 25px;
+                 padding-bottom: 25px;
+                 border: 2px solid #fff;
+
+}
+
 h1 { color: #000;
      text-align: center;
 }
@@ -5,11 +19,10 @@ h1 { color: #000;
 body { background-color: #AEB4A9;
 }
 
-section { border-style: solid; 
-          background-color: #586cdb;
-          border-color: #00276e;
+section { background-color: #586cdb;
           color:  white;
           text-align: center;
+          border: 2px solid #fff;
 }
 a:link { color: #fff;
 }
